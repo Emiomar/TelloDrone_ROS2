@@ -1,5 +1,6 @@
 # TelloDrone_ROS2
-# Controla y Simula un Tello Drone con ROS2
+# Controla un Tello Drone con ROS2
+
 
 ## #1 Instalación de Linux Ubuntu 20.04.6 LTS (Focal Fossa)
 ### Página donde puedes descargar la imagen ISO https://releases.ubuntu.com/focal/
@@ -20,4 +21,14 @@
 ### Durante el vuelo del drone podras visualizar la cámara del drone en tu computadora y controlarlo con ayuda del Joystick
 
 https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/dbd4dd0f-9490-4025-b7ca-76c57321dd07
+
+# Simula un Tello Drone con ROS 2
+## #1 Sigue las instrucciones del siguiente repositorio
+### Repositorio: https://github.com/clydemcqueen/tello_ros/tree/master/tello_gazebo
+### Asegurate de instalar transformations.py Puedes instalarlo con los siguientes comandos
+```
+sudo apt update
+sudo apt install python3-pip
+pip3 install transformations
+```
 
