@@ -35,7 +35,7 @@ pip3 install transformations
 
 https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/899d0820-ddc7-4df5-a149-886c21660fa9
 
-## #Visualización de topicos
+## #3 Visualización de topicos
 ### Abre otra terminal mientras corre la simulación y ejecuta el siguiente comando para visualizar los topicos 
 ```
 ros2 topic list
