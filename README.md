@@ -40,8 +40,15 @@ https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/899d0820-ddc7-4df5-a1
 ```
 ros2 topic list
 ```
+![image](https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/aeafc0d2-bc0d-475d-83f9-d0f3d0cb9dd4)
+
 ### Ejecuta Rvizz2
 ```
 rviz2
 ```
-Dentro de rviz2 podras seleccionar los topicos que quieras visualizar, a continuación un ejemplo
+### Dentro de rviz2 podras seleccionar los topicos que quieras visualizar, a continuación un ejemplo
+### -ODOMETRÍA
+### -CAMERA
+
+https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/58eb63f8-62a9-461a-b6cd-f07bdd1cd590
+
