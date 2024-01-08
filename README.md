@@ -31,4 +31,17 @@ sudo apt update
 sudo apt install python3-pip
 pip3 install transformations
 ```
+## #2 Una vez iniciado la simulación podras controlar el drone con ayuda del Joystick
 
+https://github.com/Emiomar/TelloDrone_ROS2/assets/62313075/899d0820-ddc7-4df5-a149-886c21660fa9
+
+## #Visualización de topicos
+### Abre otra terminal mientras corre la simulación y ejecuta el siguiente comando para visualizar los topicos 
+```
+ros2 topic list
+```
+### Ejecuta Rvizz2
+```
+rviz2
+```
+Dentro de rviz2 podras seleccionar los topicos que quieras visualizar, a continuación un ejemplo
