@@ -1,2 +1,2 @@
 # TelloDrone_ROS2
-Simulate and control a Tello Drone with ROS2
+Simula y controla un Tello Drone con ROS2
